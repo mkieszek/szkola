@@ -24,6 +24,18 @@ Ten projekt zawiera materiały dydaktyczne do nauczania informatyki w szkole pod
 Materiały realizują wymagania podstawy programowej dla informatyki w szkole podstawowej:
 https://zpe.gov.pl/podstawa-programowa/szkola-podstawowa/informatyka
 
+## 📋 Szczegółowy plan realizacji
+
+**[Plan realizacji lekcji informatyki dla klas 4-8](plan-lekcji-klasy-4-8.md)** - kompleksowy dokument zawierający:
+- Szczegółowe cele dla każdej klasy (4, 5, 6, 7, 8)
+- 30-35 lekcji rocznie z dokładnym opisem tematów
+- Metody nauczania dostosowane do wieku uczniów
+- Narzędzia i oprogramowanie dla Linux Mint 20.1
+- Integrację z Microsoft A1 (OneDrive, Teams)
+- Dostosowania dla uczniów ze specjalnymi potrzebami edukacyjnymi
+- Kompleksowy system oceniania
+- Harmonogram implementacji
+
 ## Struktura dokumentacji
 
 ```
