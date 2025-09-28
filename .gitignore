@@ -1,0 +1,29 @@
+# Temporary files
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# LibreOffice backup files
+.~lock.*
+
+# Build and cache directories
+__pycache__/
+*.pyc
+.cache/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.directory
+desktop.ini
+
+# Backup and archive files
+*.backup
+*.old
+*.orig
